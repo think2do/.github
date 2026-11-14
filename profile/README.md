@@ -34,6 +34,18 @@ think2do 是一群 AI 狂热者自发聚集的地方。
 
 ---
 
+## 精选项目
+
+### Pinbench · 零基础学嵌入式
+
+在浏览器里旋转查看 3D 开发板，跟着入门课练习接线，从一盏会闪的提示灯做起。也可以试试自动小夜灯、倒车雷达和桌面温湿度计。
+
+[在线体验](https://pinbench-3d-workshop.vercel.app/) · [开始第一课](https://pinbench-3d-workshop.vercel.app/#learn/embedded) · [查看源码](https://github.com/think2do/pinbench-3d-workshop)
+
+[浏览 think2do 的全部仓库](https://github.com/orgs/think2do/repositories)
+
+---
+
 ## 谁可以加入？
 
 ```
