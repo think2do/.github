@@ -42,6 +42,12 @@ think2do 是一群 AI 狂热者自发聚集的地方。
 
 [在线体验](https://pinbench-3d-workshop.vercel.app/) · [开始第一课](https://pinbench-3d-workshop.vercel.app/#learn/embedded) · [查看源码](https://github.com/think2do/pinbench-3d-workshop)
 
+### Bot 直聘 · Grok Bot 模板货架
+
+挑一个现成的 Grok Bot 直接导入，鼠标放上去它还会跟你自荐；也可以让你的 AI 照着投稿指南，把你自己做的 Bot 挂上来，合并后你就是项目贡献者。每个 Bot 都附一份作者的设计说明，适合拿来学习、也适合当作品集。
+
+[在线体验](https://bot-zhipin.pages.dev/) · [我要投稿](https://github.com/jakob52123/bot-zhipin/blob/main/CONTRIBUTING.md) · [查看源码](https://github.com/jakob52123/bot-zhipin)
+
 [浏览 think2do 的全部仓库](https://github.com/orgs/think2do/repositories)
 
 ---
